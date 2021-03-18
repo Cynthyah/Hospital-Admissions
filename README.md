@@ -1,5 +1,5 @@
 # Hospital-Admissions
-Project with some information about hospital admissions where it was used to practice some queries.
+Project using SQL with some information about hospital admissions where it was used to practice some queries.
 
 Diagram extract from SQL Server Management Studio v18.8
 
